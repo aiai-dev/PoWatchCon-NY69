@@ -1,0 +1,7 @@
+{
+  "name": "Policy Watch Connect New Year Greetings",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
